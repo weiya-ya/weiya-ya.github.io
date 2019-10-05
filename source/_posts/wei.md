@@ -1,14 +1,7 @@
 ---
-title: 薇吖
-date: 2016-10-12 18:38:45
-categories: 
-    - 分类1
-    - 分类2
-tags: 
-    - 标签1
-    - 标签2
-cover: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1552486081,3660200532&fm=26&gp=0.jpg
+title: 薇吖 
+date: 2019-9-12 10:38:45
 ---
 
-微吖。后天又走了
-
+欢迎来到“薇吖”博客,
+这是我自己学习中总结的知识，和大家一起分享
